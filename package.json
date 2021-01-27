@@ -4,18 +4,21 @@
   "description": "Website of Projexel Technologies Pvt. Ltd.",
   "main": "express.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node express"
+  },
+  "engines": {
+    "node": ">=10.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akshat134/Projexel-Technologies.git"
+    "url": "git+https://github.com/akshat134/Projexel-Technologies"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/akshat134/Projexel-Technologies/issues"
   },
-  "homepage": "https://github.com/akshat134/Projexel-Technologies#readme",
+  "homepage": "https://github.com/akshat134/Projexel-Technologies",
   "dependencies": {
     "express": "^4.17.1"
   }
