@@ -1,8 +1,8 @@
 {
   "name": "projexel-technologies",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Website of Projexel Technologies Pvt. Ltd.",
+  "main": "express.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/akshat134/Projexel-Technologies/issues"
   },
-  "homepage": "https://github.com/akshat134/Projexel-Technologies#readme"
+  "homepage": "https://github.com/akshat134/Projexel-Technologies#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
